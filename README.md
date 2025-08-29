@@ -15,4 +15,4 @@ Submissions to this list are welcome. Make a Pull Request with them.
 
 
 ## Aircraft Modeling
-- MissileSimulation - Transsonic Missle System Model - [MissileSimulation](https://github.com/JohannesAutenrieb/MissileSimulation).
+- - [MissileSimulation](https://github.com/JohannesAutenrieb/MissileSimulation) - Transsonic Missle System Model.
