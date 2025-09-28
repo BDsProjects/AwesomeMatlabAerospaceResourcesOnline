@@ -37,7 +37,7 @@ Resources for all topics
   - [Spacecraft Modeling, Attitude Determination, and Control: Quaternion-Based Approach by Yaguang Yang](https://ntrs.nasa.gov/api/citations/20240009554/downloads/Space%20Attitude%20Development%20Control.pdf) - NASA Technical Reports Server listed, Quaternion based attitude determination and control textbook with the best explanations of quaternion theory, use, and integration I have come across.
   - [A Model-Based Design & Testing Approach for Orion GN&C Flight Software Development by Joel Henry NASA-JSC](https://www.nasa.gov/wp-content/uploads/2016/10/01-03_orion_cre_exploration_vehicle_model_0.pdf) - A presentation on the MBSE process for the Artemis Mission Capsule, Orion's flight software development.
   - [MIT Open courseware - Lecture L17 - Orbit Transfers and Interplanetary Trajectories](https://ocw.mit.edu/courses/16-07-dynamics-fall-2009/e6393974ce4ed22b095f2e1d1a6a8e81_MIT16_07F09_Lec17.pdf) - Transfers from one orbit to another and the construction of interplanetary trajectories
-
+  - [Introduction to Astrodynamic Reentry](https://apps.dtic.mil/sti/tr/pdf/ADA505342.pdf) - A free textbook that serves as an introduction to analytical re-entry problem and there solutions. This book has the approach: "How little can I know about the vehicle and still study its atmospheric entry?" - (I had this professor for an orbital class and it was electric in person)
 
 
 
