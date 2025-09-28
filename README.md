@@ -18,16 +18,15 @@ Resources for all topics
 ## Intro Simulink and MATLAB Courses
 - - [Control System Design with MATLAB and Simulink](https://matlabacademy.mathworks.com/details/control-system-design-with-matlab-and-simulink/lpmlslcsd) - linear/non-linear control systems, linearization of nonlinear systems
   - [MATLAB Skills for Simulink Modeling](https://matlabacademy.mathworks.com/details/matlab-skills-for-simulink-modeling/lpmlssm) - Effective MATLAB programming skills
-  - 
-
-  - [
-  - [
 
 ## Spacecraft Modeling
+- - [Spacecraft Simulation](https://www.mathworks.com/help/aeroblks/spacecraft.html?s_tid=CRUX_lftnav) - MathWorks' featured example and topic page to direct you to topics like Orbit Propagation Methods, Constellation Modeling, Spacecraft Dynamics and more
 
 ### Spacecraft Modeling Repos
 
 ### Spacecraft Modeling Papers and Textbooks
+- - [Spaceflight Dynamics: Third Edition 3rd ed. Edition](https://a.co/d/4di37rW) - Spaceflight Dynamics: 3rd Edition by William E. Wiesel is likely the most easy to read textbook I have ever had in my undergrad and graduate studies. Covers mainly orbital mechanics and dynamics instead of control systems or ADCS, but it helped me to understand the orbital environment well.
+  - [Spacecraft Modeling, Attitude Determination, and Control: Quaternion-Based Approach by Yaguang Yang](https://ntrs.nasa.gov/api/citations/20240009554/downloads/Space%20Attitude%20Development%20Control.pdf) - NASA Technical Reports Server listed, Quaternion based attitude determination and control textbook with the best explanations of quaternion theory, use, and integration I have come across.
 
 
 
