@@ -3,7 +3,7 @@ Awesome MATLAB Aerospace Resources Online (AMARO)
 
 AwesomeMatlabAerospaceResourcesOnline (AMARO)
 
-This is a list of Aerospace Engineering, Modeling, and related resources, projects, and models for MATLAB that I’ve found. I put this list together to create a comprehensive list for attitude determination control system (ADCS) MATLAB and Simulink software along with other topics. 
+This is a list of Aerospace Engineering, System Modeling, related resources, projects, and some models for MATLAB that I’ve found. I put this list together to create a comprehensive list for attitude determination control systems (ADCS), flight dynamics, and similar modeling processes to use in MATLAB and Simulink.
 
 I haven’t actually used all the libraries on this list, so I can’t vouch for their quality. I’m just noting their existence.
 
