@@ -24,6 +24,7 @@ Resources for all topics
   - [NAIF ]() - Navigation and Ancillary Information Facility Spacecraft, Planet, Instrument, C-matrix, Events which can be used to mimmick previous spacecraft flights and events like Voyager planetary flybys, planetary movements, solar system events, etc. 
   - - [About Spice](https://naif.jpl.nasa.gov/naif/aboutspice.html) - What Spice is, its history, missions currently using it and m0re  
     - [About NAIF](https://naif.jpl.nasa.gov/naif/about.html) - What NAIF is and why it was created
+    - [JSC Simulation & Modeling](https://www.nasa.gov/reference/jsc-simulation-modeling/) - NASA Johnson Space Center (JSC) modeling, simulation, visualization, and associated environments in multiple coding languages
 
 ### Spacecraft Modeling Repos
 - - [Spacecraft Dynamics and Control](https://github.com/a-shakouri/Spacecraft-dynamics-and-control) - 
