@@ -21,12 +21,18 @@ Resources for all topics
 
 ## Spacecraft Modeling
 - - [Spacecraft Simulation](https://www.mathworks.com/help/aeroblks/spacecraft.html?s_tid=CRUX_lftnav) - MathWorks' featured example and topic page to direct you to topics like Orbit Propagation Methods, Constellation Modeling, Spacecraft Dynamics and more
+  - [NAIF ]() - Navigation and Ancillary Information Facility Spacecraft, Planet, Instrument, C-matrix, Events which can be used to mimmick previous spacecraft flights and events like Voyager planetary flybys, planetary movements, solar system events, etc. 
+  - - [About Spice](https://naif.jpl.nasa.gov/naif/aboutspice.html) - What Spice is, its history, missions currently using it and m0re  
+    - [About NAIF](https://naif.jpl.nasa.gov/naif/about.html) - What NAIF is and why it was created
 
 ### Spacecraft Modeling Repos
+- - [Spacecraft Dynamics and Control](https://github.com/a-shakouri/Spacecraft-dynamics-and-control) - 
 
 ### Spacecraft Modeling Papers and Textbooks
 - - [Spaceflight Dynamics: Third Edition 3rd ed. Edition](https://a.co/d/4di37rW) - Spaceflight Dynamics: 3rd Edition by William E. Wiesel is likely the most easy to read textbook I have ever had in my undergrad and graduate studies. Covers mainly orbital mechanics and dynamics instead of control systems or ADCS, but it helped me to understand the orbital environment well.
   - [Spacecraft Modeling, Attitude Determination, and Control: Quaternion-Based Approach by Yaguang Yang](https://ntrs.nasa.gov/api/citations/20240009554/downloads/Space%20Attitude%20Development%20Control.pdf) - NASA Technical Reports Server listed, Quaternion based attitude determination and control textbook with the best explanations of quaternion theory, use, and integration I have come across.
+  - [A Model-Based Design & Testing Approach for Orion GN&C Flight Software Development by Joel Henry NASA-JSC](https://www.nasa.gov/wp-content/uploads/2016/10/01-03_orion_cre_exploration_vehicle_model_0.pdf) - A presentation on the MBSE process for the Artemis Mission Capsule, Orion's flight software development.
+  - [MIT Open courseware - Lecture L17 - Orbit Transfers and Interplanetary Trajectories](https://ocw.mit.edu/courses/16-07-dynamics-fall-2009/e6393974ce4ed22b095f2e1d1a6a8e81_MIT16_07F09_Lec17.pdf) - Transfers from one orbit to another and the construction of interplanetary trajectories
 
 
 
