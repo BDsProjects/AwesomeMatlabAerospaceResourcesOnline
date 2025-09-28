@@ -27,6 +27,7 @@ Resources for all topics
     - [JSC Simulation & Modeling](https://www.nasa.gov/reference/jsc-simulation-modeling/) - NASA Johnson Space Center (JSC) modeling, simulation, visualization, and associated environments in multiple coding languages
     - [Reliability Approach to Optimal Thruster Configuration Design for Spacecraft Attitude Control Subsystem](https://doi.org/10.5028/jatm.v12.1112) - Very useful paper and one of few resources found for determinging the amount of thrusters for specified thrust(s) needed to ensure proper reliabilty and redundancy are possible.
     - - Ghobadi M; Shafaee M; Nadoushan Jafari M; (2020) Reliability Approach to Optimal Thruster Configuration Design for Spacecraft Attitude Control Subsystem. J Aerosp Technol Manag, 12: e2320. https://doi.org/10.5028/jatm.v12.1112
+- - [Spacecraft Automated Landing System](https://www.mathworks.com/videos/spacecraft-automated-landing-system-68869.html?s_tid=srchtitle_videos_main_1_spacecraft) - "Model the fault management system of an automatic landing system for the HL-20, a spacecraft based on a specification from NASA."
 
 ### Spacecraft Modeling Repos
 - - [Spacecraft Dynamics and Control](https://github.com/a-shakouri/Spacecraft-dynamics-and-control) - 
