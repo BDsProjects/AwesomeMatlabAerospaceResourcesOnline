@@ -13,7 +13,7 @@ Submissions to this list are welcome. Make a Pull Request with them.
 
 Resources for all topics
 - [Dr. Shane Ross's Youtube Channel](https://www.youtube.com/@ProfessorRoss) - Has videos, some including MATLAB examples on: Kalman filters, space vehicle dynamics, nonlinear dynamics and chaos,  orbital mechanics/dynamics, and many more advanced topics in high quality
-- 
+- [Ben Dickinson](https://www.youtube.com/@LearnGandC/videos) - Covers undergraduate and graduate level courses on many topics of Guidance, Navigation, and Controls (GNC) for aircraft, spacecraft, control systems, and much more. 
 
 ## Intro Simulink and MATLAB Courses
 - - [Control System Design with MATLAB and Simulink](https://matlabacademy.mathworks.com/details/control-system-design-with-matlab-and-simulink/lpmlslcsd) - linear/non-linear control systems, linearization of nonlinear systems
