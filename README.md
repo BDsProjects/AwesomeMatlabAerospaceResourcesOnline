@@ -46,7 +46,6 @@ Resources for all topics
 - - [aircraft-design](https://github.com/topics/aircraft-design) - Aircraft design tag on GitHub topics
 
 ### Aircraft Modeling Repos
-- - [MissileSimulation](https://github.com/JohannesAutenrieb/MissileSimulation) - Transsonic Missle System Model.
 - - [Flight-Dynamics-and-Control-UAVs](https://github.com/lamfur07/Flight-Dynamics-and-Control-UAVs) - Flight control systems, trajectory following, low level autopilot design
  
 ### Aircraft Modeling Papers and Textbooks
@@ -56,3 +55,9 @@ Resources for all topics
 
 ### Aircraft Modeling Videos
   - [Modeling, Simulation, and Flight Control Design of an Aircraft with Simulink](https://youtu.be/LzQPJRt00Ng?si=n-NLDD2Dqj_THQeJ) - Video from the official MATLAB Youtube channel
+
+## Missile Modeling
+- - [MissileSimulation](https://github.com/JohannesAutenrieb/MissileSimulation) - Transsonic Missle System Model
+
+### Missile Modeling Papers and Textbooks
+- - [JOHNS HOPKINS APL TECHNICAL DIGEST, VOLUME 29, NUMBER 1 (2010)](https://secwww.jhuapl.edu/techdigest/Home/Detail?Journal=J&VolumeID=29&IssueID=1) - Missile flight control system modeling, homing missile guidance and its mathematical background, missile guidance filter techniques, GNC for 6 DoF simulations, and advanced missile guidance and control algorithms/adjustments - This technical digest from Johns Hopkins APL covers the processes for guided missiles making adjustments based on the data of the target and how the data changes. 
